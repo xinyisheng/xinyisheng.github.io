@@ -8,28 +8,28 @@ layout: page
 
 Here is **Xinyi Sheng (Ellie, 盛欣怡)**.
 
-I am a junior undergrad majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the Postgraduate Entrance Examination in Computer Science. While preparing for the PEE, I tried hard not to get a FAIL.(NOOOO!)I'd love to play volleyball after class and serve mostly as a setter.
+I am a junior undergrad majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the National Postgraduate Entrance Examination in Computer Science. While preparing for the NPEE, I tried hard not to get a FAIL.(NOOOO!) I'd love to play volleyball after class and serve mostly as a setter.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I'm quite pleasant to talk with you so just email me. My email address can be easily spotted on the side of the website.
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2024 - Future：** There might be one.
+- **Sep 2020 - June 2024:** None.
+- **Sep 2020 - June 2024:** None.
+- **June 2022 - Nov 2022:** None.
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- Internet in Everything
+- Computer/Intelligence Science and Technology
+- Mathematics
+- ALL content about the NPEE(Bless me)
+- [My latest research proposal (June 2025) (Future)](Here's the place for the interlinkage.)
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+School work of this semester are somewhat burdens to me. I paid a little interest in ** pattern recognition ** and ** innovative experimentation **. The former is a crucial subject in my major. And the latter, I found joy in building github pages. What I've learnt in class is expected to be applied in my resume as well as originality.
 
 ---
 
