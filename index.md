@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xinyi Sheng (Ellie, 盛欣怡)**.
 
-I am a junior undergrad majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the National Postgraduate Entrance Examination in Computer Science. While preparing for the NPEE, I tried hard not to get a FAIL.(NOOOO!) I'd love to play volleyball after class and serve mostly as a setter.
+I am a junior undergrade majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the National Postgraduate Entrance Examination in Computer Science. While preparing for the NPEE, I tried hard not to get a FAIL.(NOOOO!) I'd love to play volleyball after class and serve mostly as a setter.
 
 I'm quite pleasant to talk with you so just email me. My email address can be easily spotted on the side of the website.
 
@@ -45,5 +45,5 @@ School work of this semester are somewhat burdens to me. I paid a little interes
 - **May 2023：**None.
 - **Jun 2022：**None.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">
 
