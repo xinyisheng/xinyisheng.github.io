@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xinyi Sheng (Ellie, 盛欣怡)**.
 
-I am a junior undergrad majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the Postgraduate Entrance Examination in Computer Science. I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I am a junior undergrad majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the Postgraduate Entrance Examination in Computer Science. While preparing for the PEE, I tried hard not to get a FAIL.(NOOOO!)I'd love to play volleyball after class and serve mostly as a setter.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
