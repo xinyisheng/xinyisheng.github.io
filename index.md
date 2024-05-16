@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xinyi Sheng (Ellie, 盛欣怡)**.
 
-I am a junior undergrade majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the National Postgraduate Entrance Examination in Computer Science. While preparing for the NPEE, I tried hard not to get a FAIL.(NOOOO!) I'd love to play volleyball after class and serve mostly as a setter.
+I am a junior undergrade majoring in Intelligence Science and Technology at Yunnan University. Recently this time I'm firmly stepping forward to the National Postgraduate Entrance Examination in Computer Science. While preparing for the NPEE, I tried hard not to get a FAIL.(NOOOO!) I play volleyball after class and serve mostly as a setter.
 
 I'm quite pleasant to talk with you so just email me. My email address can be easily spotted on the side of the website.
 
@@ -23,8 +23,8 @@ I'm quite pleasant to talk with you so just email me. My email address can be ea
 
 ## Research Interests
 
-- Internet in Everything
-- Computer/Intelligence Science and Technology
+- Computer Science
+- Intelligence Science and Technology
 - Mathematics
 - ALL content about the NPEE(Bless me)
 - My latest research proposal (June 2025) (Future) (Here's the place for the interlinkage.)
