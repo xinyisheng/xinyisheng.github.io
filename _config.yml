@@ -1,4 +1,4 @@
-title: Xinyi Sheng
+title: 小谖自建存文网站
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,8 +6,8 @@ url: https://xinyisheng.com
 
 # Owner/author information
 owner:
-  name: Xinyi Sheng
-  avatar: sxy1.jpg
+  name: 小谖自建存文网站
+  # avatar: sxy1.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xinyisheng33@163.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -32,7 +32,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 0528更新《火焰2》
     url: /
   #- title: Teams
     #url: /teams/
